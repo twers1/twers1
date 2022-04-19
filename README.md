@@ -1,7 +1,10 @@
 # Hello, I am Sima Tarverdyan 👋
 ## About me 
 - I'm 17yo, have been studying programming for about two years
-- 
+- I am a first-year student of information systems and programming
+- I play CS:GO in my spare time
+- I prefer to play soccer/basketball/volleyball/table tennis after a hard day
+- I love to learn new things and conquer programming
 
 <!--
 **twers1/twers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
