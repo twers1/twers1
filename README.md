@@ -1,4 +1,7 @@
 # Hello, I am Sima Tarverdyan 👋
+## About me 
+- I'm 17yo, have been studying programming for about two years
+- 
 
 <!--
 **twers1/twers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
