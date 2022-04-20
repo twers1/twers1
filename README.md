@@ -6,8 +6,8 @@
 - I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
 ## Stack
-- Language: 
-[<img align="left" width="100px" alt="javeoff | JavaScript" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />]
+- Language: JavaScript
+[<img align="left" width="100px" alt="javeoff | JavaScript" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"/>]
 
 <!--
 **twers1/twers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
