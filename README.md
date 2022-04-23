@@ -1,5 +1,5 @@
 # Hello, I am Sima Tarverdyan 👋
-## About me 
+## About Me 
 - I'm 17yo, have been studying programming for about two years
 - I am a first-year student of information systems and programming
 - I play CS:GO in my spare time
@@ -20,8 +20,14 @@
 
 
 - Frameworks: -
-## My studies
+## My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
+## Follow Me 
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCP6zmciSYdxuEuufjBTPgpA)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/twers1)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/twersii)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/twers1)
+## Connect 
 
 
 <!--
