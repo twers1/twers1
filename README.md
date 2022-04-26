@@ -16,7 +16,7 @@
 
 
 
-<window.print(Привет, мир!)>
+<console.log('Hello, World!');>
 
 
 - Frameworks: -
