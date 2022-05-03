@@ -19,7 +19,13 @@
 <console.log('Hello, World!');>
 
 
-- Frameworks: -
+- Frameworks: 
+<img align="left" width="70px" alt="twers1 | NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
+
+;
+
+
+;
 ## My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 ## Follow Me 
