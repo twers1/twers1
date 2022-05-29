@@ -12,7 +12,10 @@
 <img align="left" width="70px" alt="twers1 | HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"/>
 <img align="left" width="70px" alt="twers1 | Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 <img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
+<img align="left" width="70px" alt="twers1 | NodeJS" src="nodejs.png"/>
+;
 
+;
 
 ## My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
