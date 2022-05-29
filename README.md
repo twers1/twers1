@@ -5,27 +5,15 @@
 - I play CS:GO in my spare time
 - I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
-## Stack
-- Language: JavaScript, CSS, HTML and Python
+## My Stack
+- :hammer_and_wrench: Language and Tools: 
 <img align="left" width="125px" alt="twers1 | JavaScript" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"/>
 <img align="left" width="70px" alt="twers1 | CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
 <img align="left" width="70px" alt="twers1 | HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"/>
 <img align="left" width="70px" alt="twers1 | Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-
-<print "Hello, world">
-
+<img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
 
 
-<console.log('Hello, World!');>
-
-
-- Frameworks: 
-<img align="left" width="70px" alt="twers1 | NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
-
-;
-
-
-;
 ## My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
