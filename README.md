@@ -34,6 +34,7 @@
 <img align="left" width="70px" alt="twers1 | Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 <img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
 <img align="left" width="70px" alt="twers1 | NodeJS" src="nodejs.png"/>
+<img align="left" width="70px" alt="twers1 | Bootstrap" src="bootstrap.png"/>
 ;
 
 ;
