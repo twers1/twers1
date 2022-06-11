@@ -35,12 +35,20 @@
 <img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
 <img align="left" width="70px" alt="twers1 | NodeJS" src="nodejs.png"/>
 <img align="left" width="70px" alt="twers1 | Bootstrap" src="bootstrap.png"/>
-;
-
-;
 
 
-;
+
+
+
+<br>
+
+
+
+
+<br>
+
+
+
 ## 🖥️ My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
