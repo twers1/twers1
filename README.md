@@ -50,6 +50,9 @@
 
 
 
+<br>
+
+
 
 ## 🖥️ My Studies
 (September 2021 -> currently)- 1st year in the specialty "Information Systems and Programming" in Moscow college 26KADR
