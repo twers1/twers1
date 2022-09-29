@@ -21,8 +21,8 @@
 
 
 ## 📝About Me 
-- I'm 17yo, have been studying programming for about two years
-- I am a first-year student of information systems and programming
+- I'm 17yo, have been studying programming for about three years
+- I am a secondt-year student of information systems and programming
 - I play CS:GO in my spare time
 - I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
