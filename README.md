@@ -58,7 +58,7 @@
 (September 2021 -> currently)- 2nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
 
-(May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538)
+(May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538) (courses: JS, WEB-develop, SQL)
 
 
 ## 🔥 My stats
