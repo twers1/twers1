@@ -35,7 +35,7 @@
 <img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
 <img align="left" width="70px" alt="twers1 | NodeJS" src="nodejs.png"/>
 <img align="left" width="70px" alt="twers1 | Bootstrap" src="bootstrap.png"/>
-
+<img align="left" width="70px" alt="twers1 | SCSS" src="scss.png"/>
 
 
 
