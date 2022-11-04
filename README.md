@@ -27,18 +27,16 @@
 - I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
 ## :hammer_and_wrench: My Stack
--  Language and Tools: 
-<img align="left" width="125px" alt="twers1 | JavaScript" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png"/>
-<img align="left" width="70px" alt="twers1 | CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
-<img align="left" width="70px" alt="twers1 | HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"/>
-<img align="left" width="70px" alt="twers1 | Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
-<img align="left" width="70px" alt="twers1 | VSCODE" src="vscode.png"/>
-<img align="left" width="70px" alt="twers1 | NodeJS" src="nodejs.png"/>
-<img align="left" width="70px" alt="twers1 | Bootstrap" src="bootstrap.png"/>
-<img align="left" width="70px" alt="twers1 | SCSS" src="scss.png"/>
-
-
-<img width="80px" alt="twers1 | SQL" src="sql.png"/>
+-  Language : 
+<img align="left" alt="twers1 | JavaScript" src="js.png"/>
+<img align="left"  alt="twers1 | CSS" src="css.png"/>
+<img align="left"  alt="twers1 | HTML" src="html.png"/>
+<img align="left"  alt="twers1 | Python" src="py.png"/>
+<img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
+<img align="left"  alt="twers1 | NodeJS" src="node.png"/>
+<img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
+<img align="left"  alt="twers1 | SCSS" src="sass.png"/>
+<img align='left' alt="twers1 | SQL" src="postgres.png"/>
 
 
 
