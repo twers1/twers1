@@ -21,8 +21,8 @@
 
 
 ## 📝About Me 
-- I'm 17yo, have been studying programming for about three years
-- I am a secondt-year student of information systems and programming
+- I'm 17yo, have been interested in programming for three years
+- I am a second-year student of information systems and programming
 - I play CS:GO in my spare time
 - I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
@@ -32,16 +32,27 @@
 <img align="left"  alt="twers1 | CSS" src="css.png"/>
 <img align="left"  alt="twers1 | HTML" src="html.png"/>
 <img align="left"  alt="twers1 | Python" src="py.png"/>
+<img align='left' alt="twers1 | SQL" src="sql.png"/>
+
+
+<br>
+
+
+<br>
+
+- Tools:
 <img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
 <img align="left"  alt="twers1 | NodeJS" src="node.png"/>
+<img align="left"  alt="twers1 | React" src="react.png"/>
 <img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
 <img align="left"  alt="twers1 | SCSS" src="sass.png"/>
 <img align='left' alt="twers1 | SQL" src="postgres.png"/>
 
-
-
+<br>
 
 <br>
+
+- Library:
 
 
 
