@@ -23,9 +23,8 @@
 ## 📝About Me 
 - I'm 17yo, have been interested in programming for three years
 - I am a second-year student of information systems and programming
-- I play CS:GO in my spare time
-- I prefer to play soccer/basketball/volleyball/table tennis after a hard day
 - I love to learn new things and conquer programming
+- At the moment, I make telegram bots and websites on react and can work on node
 ## :hammer_and_wrench: My Stack
 -  Language : 
 <img align="left" alt="twers1 | JavaScript" src="js.png"/>
@@ -47,6 +46,8 @@
 <img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
 <img align="left"  alt="twers1 | SCSS" src="sass.png"/>
 <img align='left' alt="twers1 | SQL" src="postgres.png"/>
+<img align='left' alt="twers1 | SQL" src="windows.png"/>
+<img align='left' alt="twers1 | SQL" src="figma.png"/>
 
 <br>
 
