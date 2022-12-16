@@ -32,6 +32,10 @@
 <img align="left"  alt="twers1 | HTML" src="html.png"/>
 <img align="left"  alt="twers1 | Python" src="py.png"/>
 <img align='left' alt="twers1 | SQL" src="sql.png"/>
+<img align='left' alt="twers1 | Golang" src="golang.png"/>
+
+
+<br>
 
 
 <br>
@@ -48,6 +52,8 @@
 <img align='left' alt="twers1 | SQL" src="postgres.png"/>
 <img align='left' alt="twers1 | SQL" src="windows.png"/>
 <img align='left' alt="twers1 | SQL" src="figma.png"/>
+<img align='left' alt="twers1 | SQL" src="pug.png"/>
+<img align='left' alt="twers1 | SQL" src="gulp.png"/>
 
 <br>
 
@@ -56,6 +62,15 @@
 - Library:
 
 
+**nodemon**
+
+**sequilize** 
+
+**bcrypt** 
+
+**express**
+
+and more (I'll write later)
 
 
 <br>
