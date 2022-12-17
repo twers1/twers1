@@ -45,34 +45,31 @@
 
 - Tools:
 <img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
-<img align="left"  alt="twers1 | NodeJS" src="node.png"/>
-<img align="left"  alt="twers1 | React" src="react.png"/>
-<img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
-<img align="left"  alt="twers1 | SCSS" src="sass.png"/>
-<img align='left' alt="twers1 | SQL" src="postgres.png"/>
-<img align='left' alt="twers1 | SQL" src="windows.png"/>
-<img align='left' alt="twers1 | SQL" src="figma.png"/>
+<img align='left' alt="twers1 | windows" src="windows.png"/>
+
+<br>
+
+<br>
+
+- Frontend
+<img align="left" alt="twers1 | JavaScript" src="js.png"/>
+<img align="left"  alt="twers1 | CSS" src="css.png"/>
+<img align="left"  alt="twers1 | HTML" src="html.png"/>
 <img align='left' alt="twers1 | SQL" src="pug.png"/>
 <img align='left' alt="twers1 | SQL" src="gulp.png"/>
+<img align='left' alt="twers1 | SQL" src="figma.png"/>
+<img align="left"  alt="twers1 | SCSS" src="sass.png"/>
+<img align="left"  alt="twers1 | React" src="react.png"/>
+<img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
 
 <br>
 
 <br>
 
-- Library:
-
-
-**nodemon**
-
-**sequilize** 
-
-**bcrypt** 
-
-**express**
-
-and more (I'll write later)
-
-
+- Backend
+<img align="left" alt="twers1 | JavaScript" src="js.png"/>
+<img align="left"  alt="twers1 | NodeJS" src="node.png"/>
+<img align='left' alt="twers1 | SQL" src="postgres.png"/>
 <br>
 
 
@@ -85,8 +82,11 @@ and more (I'll write later)
 ## 🖥️ My Studies
 (September 2021 -> currently)- 2nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
-
 (May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538) (courses: JS, WEB-develop, SQL)
+
+(October 2022 -> currently) - I'm making a telegram bot for the Armenian Home store(shop) and for myself
+
+(March 2022 -> June 2022) - Made a website for my college
 
 
 ## 🔥 My stats
