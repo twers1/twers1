@@ -82,13 +82,15 @@
 ## 🖥️ My Studies
 (September 2021 -> currently)- 2nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
-(October 2021 -> November 2022) - Learning Python
+(October 2021 -> November 2022) - Learning Python in college
 
 (March 2022 -> June 2022) - Made a website for my college
 
 (May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538) (courses: JS, WEB-develop, SQL)
 
 (October 2022 -> currently) - I'm making a telegram bot for the Armenian Home store(shop) and for myself
+
+(January 2023 -> currently) - Learning C# in college and typescript
 
 
 
