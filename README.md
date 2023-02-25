@@ -24,7 +24,7 @@
 - I'm 17yo, have been interested in programming for three years
 - I am a second-year student of information systems and programming
 - I love to learn new things and conquer programming
-- At the moment, I make telegram bots and websites on react and can work on node
+- At the moment, I make telegram bots and websites on react and can work on node; learning c#, java, unity
 ## :hammer_and_wrench: My Stack
 -  Language : 
 <img align="left" alt="twers1 | JavaScript" src="js.png"/>
@@ -49,6 +49,10 @@
 <img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
 <img align='left' alt="twers1 | windows" src="windows.png"/>
 <img align='left' alt="twers1 | unity" src="unity.png"/>
+
+
+
+<br>
 
 <br>
 
@@ -75,6 +79,15 @@
 <img align='left' alt="twers1 | SQL" src="postgres.png"/>
 <br>
 
+<br>
+
+- DevOps
+
+
+<br>
+
+- GameDev
+
 
 
 
@@ -92,6 +105,8 @@
 (May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538) (courses: JS, WEB-develop, SQL)
 
 (October 2022 -> currently) - I'm making a telegram bot for the Armenian Home store(shop) and for myself
+
+(December 2022 -> December 2022) - Studied pug and gulp, made my own assembly
 
 (January 2023 -> currently) - Learning C#, Java, Unity in college 
 
