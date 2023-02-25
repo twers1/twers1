@@ -33,6 +33,8 @@
 <img align="left"  alt="twers1 | Python" src="py.png"/>
 <img align='left' alt="twers1 | SQL" src="sql.png"/>
 <img align='left' alt="twers1 | Golang" src="golang.png"/>
+<img align='left' alt="twers1 | Csharp" src="cs.png"/>
+<img align='left' alt="twers1 | Java" src="java.png"/>
 
 
 <br>
@@ -46,6 +48,7 @@
 - Tools:
 <img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
 <img align='left' alt="twers1 | windows" src="windows.png"/>
+<img align='left' alt="twers1 | unity" src="unity.png"/>
 
 <br>
 
@@ -90,7 +93,7 @@
 
 (October 2022 -> currently) - I'm making a telegram bot for the Armenian Home store(shop) and for myself
 
-(January 2023 -> currently) - Learning C# in college and typescript
+(January 2023 -> currently) - Learning C#, Java, Unity in college 
 
 
 
