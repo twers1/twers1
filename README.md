@@ -24,17 +24,20 @@
 - I'm 17yo, have been interested in programming for three years
 - I am a second-year student of information systems and programming
 - I love to learn new things and conquer programming
-- At the moment, I make telegram bots and websites on react and can work on node; learning c#, java, unity
+- At the moment, I make telegram bots, websites-application, learning gameDev, devOps and backend
 ## :hammer_and_wrench: My Stack
 -  Language : 
-<img align="left" alt="twers1 | JavaScript" src="js.png"/>
-<img align="left"  alt="twers1 | CSS" src="css.png"/>
-<img align="left"  alt="twers1 | HTML" src="html.png"/>
-<img align="left"  alt="twers1 | Python" src="py.png"/>
-<img align='left' alt="twers1 | SQL" src="sql.png"/>
-<img align='left' alt="twers1 | Golang" src="golang.png"/>
-<img align='left' alt="twers1 | Csharp" src="cs.png"/>
-<img align='left' alt="twers1 | Java" src="java.png"/>
+
+
+<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | CSS" src="./images/css.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | HTML" src="./images/html.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | Python" src="./images/python.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | SQL" src="./images/sql.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | Golang" src="./images/golang.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | Csharp" src="./images/cs.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | Java" src="./images/java.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | Java" src="./images/ts.png" width="48px" height="48px"/>
 
 
 <br>
@@ -46,9 +49,16 @@
 <br>
 
 - Tools:
-<img align="left"  alt="twers1 | VSCODE" src="vscode.png"/>
-<img align='left' alt="twers1 | windows" src="windows.png"/>
-<img align='left' alt="twers1 | unity" src="unity.png"/>
+
+
+
+<img align="left"  alt="twers1 | VSCODE" src="./images/vs.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | windows" src="./images/win.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | linux" src="./images/linux.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | npm" src="./images/npm.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | yarn" src="./images/yarn.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | git" src="./images/git.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
 
 
 
@@ -59,34 +69,59 @@
 <br>
 
 - Frontend
-<img align="left" alt="twers1 | JavaScript" src="js.png"/>
-<img align="left"  alt="twers1 | CSS" src="css.png"/>
-<img align="left"  alt="twers1 | HTML" src="html.png"/>
-<img align='left' alt="twers1 | SQL" src="pug.png"/>
-<img align='left' alt="twers1 | SQL" src="gulp.png"/>
-<img align='left' alt="twers1 | SQL" src="figma.png"/>
-<img align="left"  alt="twers1 | SCSS" src="sass.png"/>
-<img align="left"  alt="twers1 | React" src="react.png"/>
-<img align="left"  alt="twers1 | Bootstrap" src="bootstrap.png"/>
+
+
+<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
+<img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | CSS" src="./images/css.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | HTML" src="./images/html.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | pug" src="./images/pug.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | gulp" src="./images/gulp.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | figma" src="./images/figma.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | SCSS" src="./images/sass.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | React" src="./images/reactjs.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | Bootstrap" src="./images/bootstrap.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | next" src="./images/next.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | tailwind" src="./images/tailwind.png" width="48px" height="48px"/>
+
+<br>
 
 <br>
 
 <br>
 
 - Backend
-<img align="left" alt="twers1 | JavaScript" src="js.png"/>
-<img align="left"  alt="twers1 | NodeJS" src="node.png"/>
-<img align='left' alt="twers1 | SQL" src="postgres.png"/>
+
+
+<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
+<img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
+<img align="left"  alt="twers1 | NodeJS" src="./images/nodejs.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | SQL" src="./images/postgresql.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | prisma" src="./images/prisma.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | beekeeper" src="./images/postgresql.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | nest" src="./images/nest.png" width="48px" height="48px"/>
+<br>
+
 <br>
 
 <br>
 
 - DevOps
 
+ yet not started
 
 <br>
 
 - GameDev
+
+<img align='left' alt="twers1 | Csharp" src="./images/cs.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | unity" src="./images/unity.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
+
+
+<br>
+
+<br>
 
 
 
