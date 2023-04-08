@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
+  <img src="./images/logo.svg" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/twers1">
@@ -15,14 +15,19 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=twers1&color=grey" alt=""/>
 </div>
+<div align="center">
+<p align="center"><a href="https://twers1.github.io">My portfolio website</a></p>
+</div>
+
 <h1 align="center">
   Hello, I am Sima Tarverdyan 👋
 </h1>
 
 
+
+
 ## 📝About Me 
-- I'm 17yo, have been interested in programming for three years
-- I am a second-year student of information systems and programming
+- I'm 18yo, i am a student of information systems and programming and I'm into sports, also video games
 - I love to learn new things and conquer programming
 - At the moment, I make telegram bots, websites-application, learning gameDev, devOps and backend
 ## :hammer_and_wrench: My Stack
