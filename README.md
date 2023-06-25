@@ -23,16 +23,12 @@
   Hello, I am Sima Tarverdyan 👋
 </h1>
 
-
-
-
 ## 📝About Me 
 - I'm 18yo, i am a student of information systems and programming and I'm into sports, also video games
 - I love to learn new things and conquer programming
 - At the moment, I make telegram bots, websites-application, learning gameDev, devOps and backend
 ## :hammer_and_wrench: My Stack
 -  Language : 
-
 
 <img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
 <img align="left"  alt="twers1 | CSS" src="./images/css.png" width="48px" height="48px"/>
@@ -44,18 +40,11 @@
 <img align='left' alt="twers1 | Java" src="./images/java.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | Java" src="./images/ts.png" width="48px" height="48px"/>
 
-
 <br>
-
-
 <br>
-
-
 <br>
 
 - Tools:
-
-
 
 <img align="left"  alt="twers1 | VSCODE" src="./images/vs.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | windows" src="./images/win.png" width="48px" height="48px"/>
@@ -65,16 +54,11 @@
 <img align='left' alt="twers1 | git" src="./images/git.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
 
-
-
 <br>
-
 <br>
-
 <br>
 
 - Frontend
-
 
 <img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
 <img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
@@ -90,31 +74,30 @@
 <img align="left"  alt="twers1 | tailwind" src="./images/tailwind.png" width="48px" height="48px"/>
 
 <br>
-
 <br>
-
 <br>
 
 - Backend
 
-
 <img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
 <img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
+<img align="left" alt="twers1 | python" src="./images/python.png" width="48px" height="48px"/>
 <img align="left"  alt="twers1 | NodeJS" src="./images/nodejs.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | SQL" src="./images/postgresql.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | prisma" src="./images/prisma.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | beekeeper" src="./images/postgresql.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | nest" src="./images/nest.png" width="48px" height="48px"/>
-<br>
 
 <br>
-
+<br>
 <br>
 
 - DevOps
 
- yet not started
+<img align='left' alt="twers1 | linux" src="./images/linux.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | docker" src="./images/docker.png" width="48px" height="48px"/>
 
+<br>
+<br>
 <br>
 
 - GameDev
@@ -123,17 +106,9 @@
 <img align='left' alt="twers1 | unity" src="./images/unity.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
 
-
 <br>
-
 <br>
-
-
-
-
 <br>
-
-
 
 ## 🖥️ My Studies
 (September 2021 -> currently)- 2nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
@@ -149,6 +124,12 @@
 (December 2022 -> December 2022) - Studied pug and gulp, made my own assembly
 
 (January 2023 -> currently) - Learning C#, Java, Unity in college 
+
+(February 2023 -> currently) - I do e-commerce and portfolio site, fix information about React, also do games in Unity for college
+
+(May 2023 -> July 2023) - College internship
+
+(May 2023 -> currently) - Making telegram bots, using Python, aiogram and telebot. Learning docker
 
 
 
