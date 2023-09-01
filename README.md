@@ -111,7 +111,7 @@
 <br>
 
 ## 🖥️ My Studies
-(September 2021 -> currently)- 2nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
+(September 2021 -> currently)- 3nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
 (October 2021 -> November 2022) - Learning Python in college
 
