@@ -111,25 +111,9 @@
 <br>
 
 ## 🖥️ My Studies
-(September 2021 -> currently)- 3nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
+(September 2021 -> currently) - 3nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
 
-(October 2021 -> November 2022) - Learning Python in college
-
-(March 2022 -> June 2022) - Made a website for my college
-
-(May 2022 -> currently) - [Stepik](https://stepik.org/users/491146538) (courses: JS, WEB-develop, SQL)
-
-(October 2022 -> currently) - I'm making a telegram bot for the Armenian Home store(shop) and for myself
-
-(December 2022 -> December 2022) - Studied pug and gulp, made my own assembly
-
-(January 2023 -> currently) - Learning C#, Java, Unity in college 
-
-(February 2023 -> currently) - I do e-commerce and portfolio site, fix information about React, also do games in Unity for college
-
-(May 2023 -> July 2023) - College internship
-
-(May 2023 -> currently) - Making telegram bots, using Python, aiogram and telebot. Learning docker
+(July 2023 -> currently) - working(intern/junior) in ShkolaKola & MCSTUDIO
 
 
 
