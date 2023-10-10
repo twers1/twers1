@@ -31,14 +31,12 @@
 -  Language : 
 
 <img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | CSS" src="./images/css.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | HTML" src="./images/html.png" width="48px" height="48px"/>
+<img align='left' alt="twers1 | Java" src="./images/ts.png" width="48px" height="48px"/>
 <img align="left"  alt="twers1 | Python" src="./images/python.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | SQL" src="./images/sql.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | Golang" src="./images/golang.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | Csharp" src="./images/cs.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | Java" src="./images/java.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | Java" src="./images/ts.png" width="48px" height="48px"/>
+
 
 <br>
 <br>
@@ -52,7 +50,7 @@
 <img align='left' alt="twers1 | npm" src="./images/npm.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | yarn" src="./images/yarn.png" width="48px" height="48px"/>
 <img align='left' alt="twers1 | git" src="./images/git.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
+
 
 <br>
 <br>
@@ -125,6 +123,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twers1&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖊️ Reach me
-[![Discord](https://user-images.githubusercontent.com/102418053/164892638-712f7f6f-e8c3-4ea8-b2db-903f7ff8ed45.png)](https://discord.gg/5mfd6vtsVs)
 [![Telegram](https://user-images.githubusercontent.com/102418053/164892671-6ef7c1dc-c33b-4bfa-934e-301c08c384e3.png)](https://t.me/twww1)
 
