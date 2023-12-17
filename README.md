@@ -24,94 +24,44 @@
 </h1>
 
 ## 📝About Me 
-- I'm 18yo, i am a student of information systems and programming and I'm into sports, also video games
-- I love to learn new things and conquer programming
-- At the moment, I make telegram bots, websites-application, learning gameDev, devOps and backend
-## :hammer_and_wrench: My Stack
--  Language : 
-
-<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | Java" src="./images/ts.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | Python" src="./images/python.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | SQL" src="./images/sql.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | Csharp" src="./images/cs.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | Java" src="./images/java.png" width="48px" height="48px"/>
+- 👩‍💻 Fullstack programmer with a passion for crafting innovative solutions.
+- 🎓 18-year-old student pursuing a degree in information systems and programming.
+- 💡 Constantly exploring new technologies and eager to contribute to impactful projects.
+- 🌐 Enthusiastic about both frontend and backend development.
+- 🚀 Committed to continuous learning and staying up-to-date with industry trends.
 
 
-<br>
-<br>
-<br>
+## 🚀 My Skills
 
-- Tools:
+### Web Development:
+- Building dynamic web applications using JavaScript
+- Expertise in frontend technologies such as React, Next, and Tailwind CSS
+- Fullstack development, integrating backend solutions with Node.js (Express) and PostgreSQL
 
-<img align="left"  alt="twers1 | VSCODE" src="./images/vs.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | windows" src="./images/win.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | linux" src="./images/linux.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | npm" src="./images/npm.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | yarn" src="./images/yarn.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | git" src="./images/git.png" width="48px" height="48px"/>
+### Telegram Bots:
+- Proficient in Python, specializing in Telegram bot development
+- Experience with the AIogram library for building feature-rich and interactive Telegram bots
+
+### Additional Skills:
+- Strong object-oriented programming (OOP) skills in C# and Java
+- Database management using PostgreSQL
+- Version control with Git
+- Familiarity with containerization using Docker
+- Operating systems: Windows/Linux
 
 
-<br>
-<br>
-<br>
+## 🖥️ My Studies and Work Experience
 
-- Frontend
+### Education:
+- **Information Systems and Programming**
+  - *Moscow College 26KADR*
+  - *September 2021 - Present (3rd year)*
 
-<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
-<img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | CSS" src="./images/css.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | HTML" src="./images/html.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | pug" src="./images/pug.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | gulp" src="./images/gulp.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | figma" src="./images/figma.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | SCSS" src="./images/sass.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | React" src="./images/reactjs.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | Bootstrap" src="./images/bootstrap.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | next" src="./images/next.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | tailwind" src="./images/tailwind.png" width="48px" height="48px"/>
+### Work Experience:
+- **Intern/Junior Developer**
+  - *ShkolaKola & MCSTUDIO*
+  - *July 2023 - Present*
 
-<br>
-<br>
-<br>
-
-- Backend
-
-<img align="left" alt="twers1 | JavaScript" src="./images/javascript.png" width="48px" height="48px"/>
-<img align="left" alt="twers1 | ts" src="./images/ts.png" width="48px" height="48px"/>
-<img align="left" alt="twers1 | python" src="./images/python.png" width="48px" height="48px"/>
-<img align="left"  alt="twers1 | NodeJS" src="./images/nodejs.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | SQL" src="./images/postgresql.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | prisma" src="./images/prisma.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | nest" src="./images/nest.png" width="48px" height="48px"/>
-
-<br>
-<br>
-<br>
-
-- DevOps
-
-<img align='left' alt="twers1 | linux" src="./images/linux.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | docker" src="./images/docker.png" width="48px" height="48px"/>
-
-<br>
-<br>
-<br>
-
-- GameDev
-
-<img align='left' alt="twers1 | Csharp" src="./images/cs.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | unity" src="./images/unity.png" width="48px" height="48px"/>
-<img align='left' alt="twers1 | blender" src="./images/blender.png" width="48px" height="48px"/>
-
-<br>
-<br>
-<br>
-
-## 🖥️ My Studies
-(September 2021 -> currently) - 3nd year in the specialty "Information Systems and Programming" in Moscow college 26KADR
-
-(July 2023 -> currently) - working(intern/junior) in ShkolaKola & MCSTUDIO
 
 
 
@@ -123,5 +73,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twers1&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖊️ Reach me
-[![Telegram](https://user-images.githubusercontent.com/102418053/164892671-6ef7c1dc-c33b-4bfa-934e-301c08c384e3.png)](https://t.me/twww1)
+- [**Telegram**](https://t.me/twww1)
+- [**Email**](mailto:tarverdans15@gmail.com)
 
