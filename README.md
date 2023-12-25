@@ -58,7 +58,7 @@
   - *September 2021 - Present (3rd year)*
 
 ### Work Experience:
-- **Intern/Junior Developer**
+- **FullStack Developer**
   - *ShkolaKola & MCSTUDIO*
   - *July 2023 - Present*
 
