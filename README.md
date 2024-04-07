@@ -25,7 +25,7 @@
 
 ## 📝About Me 
 - 👩‍💻 Fullstack programmer with a passion for crafting innovative solutions.
-- 🎓 18-year-old student pursuing a degree in information systems and programming.
+- 🎓 19-year-old student pursuing a degree in information systems and programming.
 - 💡 Constantly exploring new technologies and eager to contribute to impactful projects.
 - 🌐 Enthusiastic about both frontend and backend development.
 - 🚀 Committed to continuous learning and staying up-to-date with industry trends.
