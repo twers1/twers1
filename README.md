@@ -29,6 +29,7 @@
 - 💡 Constantly exploring new technologies and eager to contribute to impactful projects.
 - 🌐 Enthusiastic about both frontend and backend development.
 - 🚀 Committed to continuous learning and staying up-to-date with industry trends.
+- 🧠 Integrating artificial intelligence into my projects as a prompt engineer.
 
 
 ## 🚀 My Skills
@@ -37,17 +38,20 @@
 - Building dynamic web applications using JavaScript
 - Expertise in frontend technologies such as React, Next, and Tailwind CSS
 - Fullstack development, integrating backend solutions with Node.js (Express) and PostgreSQL
+- Integrating AI functionalities into web applications for enhanced user experience and automation
 
 ### Telegram Bots:
 - Proficient in Python, specializing in Telegram bot development
 - Experience with the AIogram library for building feature-rich and interactive Telegram bots
+- Implementing AI-driven features in Telegram bots to improve conversational capabilities and perform complex tasks
 
 ### Additional Skills:
 - Strong object-oriented programming (OOP) skills in C# and Java
 - Database management using PostgreSQL
 - Version control with Git
 - Familiarity with containerization using Docker
-- Operating systems: Windows/Linux
+- Operating systems: Windows/Linux/macOS
+- Experience as a prompt engineer, with knowledge of working with AI and leveraging its capabilities for various applications
 
 
 ## 🖥️ My Studies and Work Experience
