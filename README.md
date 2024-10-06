@@ -59,12 +59,15 @@
 ### Education:
 - **Information Systems and Programming**
   - *Moscow College 26KADR*
-  - *September 2021 - Present (3rd year)*
+  - *September 2021 - Present (4rd year)*
 
 ### Work Experience:
 - **FullStack Developer**
   - *ShkolaKola & MCSTUDIO*
-  - *July 2023 - Present*
+  - *July 2023 - December 2023*
+- **FullStack Developer**
+  - *Self-employed*
+  - *January 2024 - Present*
 
 
 
