@@ -78,8 +78,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twers1&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DDBAD6)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twers1&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🖊️ Reach me
-- [**Telegram**](https://t.me/twww1)
-- [**Email**](mailto:tarverdans15@gmail.com)
-
