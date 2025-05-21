@@ -1,80 +1,73 @@
 <div id="header" align="center">
   <img src="./images/logo.svg" width="200"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://t.me/twers1">
     <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/twersii">
-    <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="Instagram"/>
-  </a>
-  <a href="https://vk.com/twers1">
-    <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="VK"/>
-  </a>
 </div>
-<div id="badges" align="center">
+
+<div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=twers1&color=grey" alt=""/>
 </div>
+
 <div align="center">
-<p align="center"><a href="https://twers1.github.io">My portfolio website</a></p>
+  <p><a href="https://twers1.github.io">🌐 Portfolio Website</a></p>
 </div>
 
-<h1 align="center">
-  Hello, I am Sima Tarverdyan 👋
-</h1>
 
-## 📝About Me 
-- 👩‍💻 Fullstack programmer with a passion for crafting innovative solutions.
-- 🎓 19-year-old student pursuing a degree in information systems and programming.
-- 💡 Constantly exploring new technologies and eager to contribute to impactful projects.
-- 🌐 Enthusiastic about both frontend and backend development.
-- 🚀 Committed to continuous learning and staying up-to-date with industry trends.
-- 🧠 Integrating artificial intelligence into my projects as a prompt engineer.
+<h1 align="center">Hey there! I'm Sima Tarverdyan 👋</h1>
 
+<p align="center">🚀 Fullstack dev blending code & creativity </p>
 
-## 🚀 My Skills
-
-### Web Development:
-- Building dynamic web applications using JavaScript
-- Expertise in frontend technologies such as React, Next, and Tailwind CSS
-- Fullstack development, integrating backend solutions with Node.js (Express) and PostgreSQL
-- Integrating AI functionalities into web applications for enhanced user experience and automation
-
-### Telegram Bots:
-- Proficient in Python, specializing in Telegram bot development
-- Experience with the AIogram library for building feature-rich and interactive Telegram bots
-- Implementing AI-driven features in Telegram bots to improve conversational capabilities and perform complex tasks
-
-### Additional Skills:
-- Strong object-oriented programming (OOP) skills in C# and Java
-- Database management using PostgreSQL
-- Version control with Git
-- Familiarity with containerization using Docker
-- Operating systems: Windows/Linux/macOS
-- Experience as a prompt engineer, with knowledge of working with AI and leveraging its capabilities for various applications
+## 🧠 About Me
+- 👨‍💻 Fullstack developer — I live for clean code and sleek UI.
+- 🧬 20 y.o. coding addict, currently wrapping up my studies in **Information Systems & Programming**.
+- 🤖 Passionate about AI, especially integrating it into real-world apps & bots.
+- 🛠️ Always tinkering with new tech — from web stacks to bot frameworks.
+- ✨ Team player, solo dev, fast learner — depends on the day. 
 
 
-## 🖥️ My Studies and Work Experience
+## 🔧 Tech Stack
 
-### Education:
-- **Information Systems and Programming**
-  - *Moscow College 26KADR*
-  - *September 2021 - Present (4rd year)*
+### 🕸️ Web
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js (Express), FastAPI, PostgreSQL
+- **Other:** Docker, Git, REST, SSR, Prisma
 
-### Work Experience:
-- **FullStack Developer**
-  - *ShkolaKola & MCSTUDIO*
-  - *July 2023 - December 2023*
-- **FullStack Developer**
-  - *Self-employed*
-  - *January 2024 - Present*
+### 🤖 Telegram Bots
+- Python + AIogram = 🔥
+- Rich interaction, deep integrations, AI-powered automation
+
+
+
+## 🎓 Education
+**📍 Moscow College 26KADR**  
+`Information Systems and Programming`  
+*2021 – Present (4th year)*
+
+
+## 💼 Work Experience
+
+**🛠️ FullStack Developer**  
+*ShkolaKola & MCSTUDIO*  
+`Jul 2023 – Dec 2023`
+
+**🚀 FullStack Developer**  
+*Self-employed*  
+`Jan 2024 – Now`
 
 
 
 
 
-## 🔥 My stats
+## 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twers1&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DDBAD6)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=twers1&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DDBAD6" alt="GitHub Streak"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twers1&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twers1&layout=compact&theme=gruvbox" alt="Top Langs"/>
+</p>
