@@ -45,7 +45,7 @@
 ## 🎓 Education
 **📍 Moscow College 26KADR**  
 `Information Systems and Programming`  
-*2021 – Present (4th year)*
+*2021 – 2025*
 
 
 ## 💼 Work Experience
