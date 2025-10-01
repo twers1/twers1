@@ -47,6 +47,10 @@
 `Information Systems and Programming`  
 *2021 – 2025*
 
+**📍 Moscow Polytechnic University**  
+`Computer Science and Engineering (09.03.01)`  
+*Specialization: Software for Information Systems*  
+*2025 – Present*
 
 ## 💼 Work Experience
 
