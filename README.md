@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <p><a href="https://twers1.github.io">🌐 Portfolio Website</a></p>
+  <p><a href="https://twers1.ru/">🌐 Portfolio Website</a></p>
 </div>
 
 
@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 - 👨‍💻 Fullstack developer — I live for clean code and sleek UI.
-- 🧬 20 y.o. coding addict, currently wrapping up my studies in **Information Systems & Programming**.
+- 🧬 21 y.o. coding addict, currently wrapping up my studies in **Information Systems & Programming**.
 - 🤖 Passionate about AI, especially integrating it into real-world apps & bots.
 - 🛠️ Always tinkering with new tech — from web stacks to bot frameworks.
 - ✨ Team player, solo dev, fast learner — depends on the day. 
